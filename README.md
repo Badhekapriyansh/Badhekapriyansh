@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Badheka</h1>
 
 <h3 align="center">
-Computer Science Student • Data Analytics Enthusiast • Python Developer
+Computer Science Student • Software Developer 
 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Badhekapriyansh&label=Profile%20Views&color=10B981&style=for-the-badge" />
