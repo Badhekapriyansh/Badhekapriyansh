@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyansh Badheka</h1>
 
-<!--
-**Badhekapriyansh/Badhekapriyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student • Data Analytics Enthusiast • Python Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/"
+font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Data+Analytics+Enthusiast;Python+Developer;Full+Stack+Web+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Badhekapriyansh&label=Profile%20Views&color=10B981&style=for-the-badge" />
+</p>
