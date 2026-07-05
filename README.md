@@ -6,7 +6,7 @@ Computer Science Student • Data Analytics Enthusiast • Python Developer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Badhekapriyansh&label=Profile%20Views&color=10B981&style=for-the-badge" />
 </p>
-## 👨‍💻 About Me
+--> About Me
 
 🎓 Computer Science student passionate about building practical software solutions.
 
