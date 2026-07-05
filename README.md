@@ -10,7 +10,7 @@ Computer Science Student • Software Developer
 
 🎓 Computer Science student passionate about building practical software solutions.
 
-📊 Interested in **Data Analytics**, **Python**, **Web Development**, and **Data Visualization**.
+📊 Interested in **Software Development**,**Data Analytics**, **Specially in Python for AI** and **Data Visualization**.
 
 🚀 I enjoy creating projects that solve real-world problems and strengthen my development skills.
 
